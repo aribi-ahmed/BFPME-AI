@@ -154,8 +154,8 @@ This tool **automates that process** — upload any business plan (`.txt` or `.p
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/bfpme-ai-agent.git
-cd bfpme-ai-agent
+git clone https://github.com/aribi-ahmed/BFPME-AI.git
+cd BFPME-AI
 
 # 2. Install dependencies
 pip install -r requirements.txt
