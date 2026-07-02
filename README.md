@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Animated Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0A4A6E&center=true&vCenter=true&width=700&lines=🏦+BFPME+AI+Credit+Agent;Intelligent+SME+Loan+Analyzer;Powered+by+GPT-4o+%2B+Smart+Parsing" alt="Typing SVG" />
-
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=08080800&width=435&lines=BFPME+AI+Agent" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
